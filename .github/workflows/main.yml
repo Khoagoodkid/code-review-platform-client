@@ -20,7 +20,7 @@ jobs:
           port: 22
           script: |
             echo "Pulling latest changes"
-            cd /root/services/teddystack-admin
+            cd /root/services/code-review-platform-client
 
             git fetch origin main
             git checkout main
