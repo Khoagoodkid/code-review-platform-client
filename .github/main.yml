@@ -1,4 +1,4 @@
-name: Deploy Admin
+name: Deploy Code Review platform
 
 on:
   push:
